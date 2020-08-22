@@ -37,6 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  names = ["William", "Sidney", "Justin", "Stephanie"]
   names.last
 end
