@@ -33,7 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   names = ["wow", "Sidney", "Justin", "Stephanie"]
-  names.index [0]
+  names.index [1]
 end
 
 def retrieve_last_element_from_array(array)
