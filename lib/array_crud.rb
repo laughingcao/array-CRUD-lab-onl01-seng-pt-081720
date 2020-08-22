@@ -33,6 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   names = ["wow", "Sidney", "Justin", "Stephanie"]
+  wow = [1]
   names.index [1]
 end
 
